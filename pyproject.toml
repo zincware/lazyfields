@@ -1,6 +1,6 @@
 [project]
 name = "znfields"
-version = "0.1.2"
+version = "0.1.3"
 description = "Lazy evaluation of dataclass fields"
 authors = [
     { name = "Fabian Zills", email = "fzills@icp.uni-stuttgart.de" },
